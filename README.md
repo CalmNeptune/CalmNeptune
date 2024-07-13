@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CalmNeptune
 - 👀 I’m interested in programming and open source
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on web project
+- 🌱 I’m currently learning python, sql and machine learning | Linux 
+- 💞️ I’m looking to collaborate | None
 - 📫 How to reach me | None
 
 <!---
