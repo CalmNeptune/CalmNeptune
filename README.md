@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CalmNeptune
-- 👀 I’m interested in programming and open source
-- 🌱 I’m currently learning python, sql and machine learning | Linux 
+- 👀 I’m interested in DevOps and Linux
+- 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate | None
 - 📫 How to reach me | None
 
